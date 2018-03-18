@@ -1,0 +1,14 @@
+{
+  "name": "watermark",
+  "version": "1.0.0",
+  "description": "Watermark of my name to include in my code",
+  "main": "watermark.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Watermark"
+  ],
+  "author": "brianokinyi <brianokinyi.bo@gmail.com>",
+  "license": "ISC"
+}
