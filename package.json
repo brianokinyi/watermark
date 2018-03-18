@@ -1,7 +1,7 @@
 {
   "name": "watermark",
   "version": "1.0.0",
-  "description": "Watermark of my name to include in my code",
+  "description": "Watermark of my name to include in code",
   "main": "watermark.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
